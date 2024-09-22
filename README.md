@@ -26,6 +26,7 @@
             
 
 5. In that Task I am using following tool and technology for Automation testing.  
+
         Programming Lanuage   : Java
         Automation framewrok  : Data-driven framework, Page object Module & pagefactory
         Testing framework     : Selenium, TestNG
@@ -33,7 +34,7 @@
         Build in tool         : Maven with sureFire plugin
 
 
-6. Create automation framework Step :
+7. Create automation framework Step :
 
         1. Setup all the driver and resources 
         2. create package for PagesClasses, TestBase, TestClasses, Utility, driver and properties.
@@ -44,7 +45,7 @@
         7. In PageClasses package strored all the page element data on it.
         8. In TestClass package store all the test cases data which on wanted to perform for automation testing.
 
-7. PagesClasses :
+8. PagesClasses :
         1. HomePage   
         2. LoginPage  
         3. NavigatePage
@@ -52,7 +53,7 @@
         5. ScrollingPage
         6. SeduleMethodPage
 
-8. TestClasses :
+9. TestClasses :
         i. NavigateTest
        ii. RegisterTest
       iii. ScrollingTest
