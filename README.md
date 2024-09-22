@@ -5,27 +5,31 @@
 3. Project description : This automation framework is designed to streamline testing processes by providing a robust and flexible structure for writing and executing automated tests.
 
 4. Table contains : 
-              Installation 
+
+                Installation 
                 Usage
                 Features
    
      1. Installation :
-                   i. Clone the repository:
+
+                    i. Clone the repository:
                             git clone https://github.com/NihalDhamse/Entrata.com.git
 
                    ii.  Navigate to the project directory:
                             cd automation-framework
 
-    2. Usage       :   To run the tests, use the following command:
+    3. Usage       :   To run the tests, use the following command:
                              mvn verify
 
-    3. Feature     :   i.  Easy setup and configuration
-                       ii. Supports multiple browsers
-                      iii. Detailed reporting
-                      iv. Extensible with plugins                    
+    4. Feature     :
+    
+                     i.  Easy setup and configuration
+                    ii. Supports multiple browsers
+                   iii. Detailed reporting
+                    iv. Extensible with plugins                    
             
 
-5. In that Task I am using following tool and technology for Automation testing.  
+6. In that Task I am using following tool and technology for Automation testing.  
 
         Programming Lanuage   : Java
         Automation framewrok  : Data-driven framework, Page object Module & pagefactory
@@ -46,6 +50,7 @@
         8. In TestClass package store all the test cases data which on wanted to perform for automation testing.
 
 8. PagesClasses :
+
         1. HomePage   
         2. LoginPage  
         3. NavigatePage
@@ -53,10 +58,11 @@
         5. ScrollingPage
         6. SeduleMethodPage
 
-9. TestClasses :
-        i. NavigateTest
-       ii. RegisterTest
-      iii. ScrollingTest
-       iv. sedualeTest
-        v. SignUpTest  
+10. TestClasses :
+
+          i. NavigateTest
+         ii. RegisterTest
+        iii. ScrollingTest
+         iv. sedualeTest
+          v. SignUpTest  
 
